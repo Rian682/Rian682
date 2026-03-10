@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Rian. 💻 Python developer. 🔍 Currently exploring Data manipulation & visualization as well as Cybersecurity✌️</p>
+<p align="left">Hello! I'm Rian. 💻 Python developer. 🔍 Currently working with Django and NextJS✌️</p>
 
 ###
 
